@@ -1,0 +1,18 @@
+{
+  "name": "portal-visual-regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  },
+  "dependencies": {
+    "cypress-image-snapshot": "^3.0.1"
+  }
+}
